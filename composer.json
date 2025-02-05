@@ -1,0 +1,17 @@
+{
+    "name": "rayan/tp2_test",
+    "require": {
+        "phpunit/phpunit": "^9.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Rayan\\Tp2Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rayane Besrour",
+            "email": "rayanebesrour3@gmail.com"
+        }
+    ]
+}
